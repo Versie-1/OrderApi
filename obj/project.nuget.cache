@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "S/UeU05Dvtk=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\versi\\Project 7 - Docker and Git Tut\\OrderApi\\OrderApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\versi\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.5\\microsoft.aspnetcore.openapi.10.0.5.nupkg.sha512",
+    "C:\\Users\\versi\\.nuget\\packages\\microsoft.openapi\\2.0.0\\microsoft.openapi.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
