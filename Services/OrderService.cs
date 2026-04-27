@@ -10,7 +10,10 @@ public class OrderService
 
     public void Add(Order order)
     {
-        order.Id = _orders.Count + 1;
-        _orders.Add(order);
+    if (order.Amount <= 0)
+        throw new Exception("Invalid amount");
+
+    order.Id = _orders.Count + 1;
+    _orders.Add(order);
     }
 }
